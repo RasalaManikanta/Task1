@@ -10,6 +10,7 @@ public class StudentGradeTrackerArray {
         double[] grades = new double[n];
 
         // Input grades
+        //Hello
         for (int i = 0; i < n; i++) {
             while (true) {
                 System.out.print("Enter grade for student " + (i + 1) + ": ");
