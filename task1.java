@@ -22,6 +22,7 @@ public class StudentGradeTrackerArray {
                 }
             }
         }
+        //Hi
 
         // Initialize values
         double total = 0;
