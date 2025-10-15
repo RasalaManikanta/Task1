@@ -11,6 +11,7 @@ public class StudentGradeTrackerArray {
 
         // Input grades
         //Hello
+        //welcome
         for (int i = 0; i < n; i++) {
             while (true) {
                 System.out.print("Enter grade for student " + (i + 1) + ": ");
